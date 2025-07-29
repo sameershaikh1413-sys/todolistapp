@@ -1,7 +1,7 @@
 <template>
   <div class="todo-app">
     <header class="header">
-      <h1 class="title">TodoList</h1>
+      <h1 class="title">TodoList test</h1>
       <p class="subtitle">Stay organized, stay productive</p>
     </header>
 
